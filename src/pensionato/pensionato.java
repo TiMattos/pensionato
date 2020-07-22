@@ -1,7 +1,5 @@
 package pensionato;
 
-import java.util.Collections;
-import java.util.Comparator;
 import java.util.Locale;
 import java.util.Scanner;
 
